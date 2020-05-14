@@ -3,7 +3,7 @@ title Password Generator by pimz
 set Sub1=%random%%random%
 set Sub2=%random%%random%
 set tit=Password Generator by pimz 
-set letter=hh
+set letter=pimz
 
 :msr
 title %tit%
