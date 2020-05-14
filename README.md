@@ -4,4 +4,4 @@ This is the most simplest password generator that I have ever made! I thought fo
 
 -- Line 5. "set tit=" This allows you to change all the titles for each module with just one simple change! 
 
--- Line 6 "set letter=" This allows you to change the random letters. *Letters are needed for most passwords*
+-- Line 6. "set letter=" This allows you to change the random letters. *Letters are needed for most passwords*
