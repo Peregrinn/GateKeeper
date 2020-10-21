@@ -1,14 +1,12 @@
-This is the most simplest password generator that I have ever made! I thought for the people that are learning like me, would like to get a quick and easy tutorial! 
+So after 6 months of work and some unreleased versions, I am finally ready to release them! 
+I am only releasing versions, v.3, v.4, v.5.
 
-**CUSTOMIZATION** 
+Gate Keeper is now an executable file. 
 
--- Line 3. "set color=" Allows you to change the color of the program easily.
+**CUSTOMIZATION** For v.5
+username= For personal preference.
+spacer= The divider between the saved password and email.
+color= You can change the color of the text to Gate Keeper. 
 
--- Line 4. "set username=" This is so that the program can call you what you want to be called 
-
--- Line 7. "set title=" This allows you to change all the titles for each module with just one simple change! 
-
--- Line 8. "set letter=" This allows you to change the random letters. *Letters are needed for most passwords*
-
--- Line 9. "set spacer=" Spacer depends on prefrence, leave default if you don't know what it means.
-
+**REQUIREMENTS** For v.5
+-- cURL = https://curl.haxx.se/ 
