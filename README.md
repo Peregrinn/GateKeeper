@@ -1,7 +1,8 @@
-So after 6 months of work and some unreleased versions, I am finally ready to release them! 
-I am only releasing versions, v.3, v.4, v.5.
+Gate Keeper is a Random Password Generator that will automatically create a txt file that will save the password! This also allows you to save your email address along with the password. (**and no this is NOT a password stealer.** I could care less about your emails) 
 
 Gate Keeper is now an executable file. 
+
+For the people that may ask, Where is v.2? - *v.2 was so buggy that I didn't even wanna bother releasing it.* yeah that's all to it. 
 
 **CUSTOMIZATION** For v.5
 
